@@ -35,4 +35,10 @@ source ${VENV_TOFU}/bin/activate
 
 VENV_TOFU was insane to install.  I'm sorry the install is in my home directory
 
+Now you want to install snakemake.  Do not use anaconda or it overwrites the python pbtranscript needs.
+
+```
+pip install snakemake
+```
+
 Now you can run the snakemake.  It will take you through primer trimming.
