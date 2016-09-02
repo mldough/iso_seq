@@ -49,7 +49,7 @@ Now you can run the snakemake.  It will take you through primer trimming.
 You need to request a big qlogin because blasr_nproc is local, ie, not qsubbed.
 
 ```
-tofu_wrap.py --nfl_fa chimp_nfl.fastq --bas_fofn chimp.input.fofn  -d clusterOut --use_sge --max_sge_jobs 10 --blasr_nproc 4 --gcon_nproc 2 --quiver_nproc 2 --quiver --bin_manual "(0,1,2,3,8)" --output_seqid_prefix chimp_ice --sge_env_name serial --gmap_db /net/eichler/vol2/eee_shared/assemblies/GRCh38/indexes/gmap2 --gmap_name "GRCh38" chimp_flnc.fastq chimp.final.consensus.fasta
+tofu_wrap.py --nfl_fa chimp_nfl.fastq --bas_fofn chimp.input.fofn  -d clusterOut --use_sge --max_sge_jobs 20 --blasr_nproc 4 --gcon_nproc 2 --quiver_nproc 2 --quiver --bin_manual "(0,1,2,3,8)" --output_seqid_prefix chimp_ice --sge_env_name serial --gmap_db /net/eichler/vol2/eee_shared/assemblies/GRCh38/indexes/gmap2 --gmap_name "GRCh38" chimp_flnc.fastq chimp.final.consensus.fasta
 ```
 
 
