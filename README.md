@@ -31,6 +31,7 @@ export SMRT_ROOT=/net/eichler/vol24/projects/sequencing/pacbio/software/smrtanal
 ${SMRT_ROOT}/current/smrtcmds/bin/smrtshell
 export VENV_TOFU=~zevk/projects/VENV_TOFU
 source ${VENV_TOFU}/bin/activate
+source ~/.bash_profile
 ```
 
 VENV_TOFU was insane to install.  I'm sorry the install is in my home directory
