@@ -10,6 +10,8 @@ module load autoconf/2.69
 module load automake/1.14
 module load curl/7.48.0
 module load bamtools/2.3.0
+module load samtools/0.1.19
+module load perl/5.14.2
 
 export BOOST_ROOT=$MOD_GSBOOST_DIR
 

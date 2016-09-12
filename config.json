@@ -1,116 +1,166 @@
 {
 "gorilla6-1" : {
-"gorilla6-1A" : "../links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.1.bax.h5",
-"gorilla6-1B" : "../links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.2.bax.h5",
-"gorilla6-1C" : "../links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.3.bax.h5",
+"gorilla6-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.1.bax.h5",
+"gorilla6-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.2.bax.h5",
+"gorilla6-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.3.bax.h5",
 },
 "chimp7-1"  : {
-"chimp7-1A" : "../links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.1.bax.h5",
-"chimp7-1B" : "../links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.2.bax.h5",
-"chimp7-1C" : "../links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.3.bax.h5"
+"chimp7-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.1.bax.h5",
+"chimp7-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.2.bax.h5",
+"chimp7-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.3.bax.h5"
 },
 "chimp6-1"  : {
-"chimp6-1A" : "../links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.1.bax.h5",
-"chimp6-1B" : "../links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.2.bax.h5",
-"chimp6-1C" : "../links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.3.bax.h5"
+"chimp6-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.1.bax.h5",
+"chimp6-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.2.bax.h5",
+"chimp6-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.3.bax.h5"
 },
 "chimp10-2" : {
-"chimp10-2A"  : "../links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.1.bax.h5",
-"chimp10-2B"  : "../links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.2.bax.h5",
-"chimp10-2C"  : "../links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.3.bax.h5",
-"chimp10-2D"  : "../links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.1.bax.h5",
-"chimp10-2E"  : "../links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.2.bax.h5",
-"chimp10-2F"  : "../links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.3.bax.h5",
-"chimp10-2G"  : "../links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.1.bax.h5",
-"chimp10-2H"  : "../links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.2.bax.h5",
-"chimp10-2I"  : "../links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.3.bax.h5",
-"chimp10-2J"  : "../links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.1.bax.h5",
-"chimp10-2K"  : "../links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.2.bax.h5",
-"chimp10-2L"  : "../links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.3.bax.h5"
+"chimp10-2A"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.1.bax.h5",
+"chimp10-2B"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.2.bax.h5",
+"chimp10-2C"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.3.bax.h5",
+"chimp10-2D"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.1.bax.h5",
+"chimp10-2E"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.2.bax.h5",
+"chimp10-2F"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.3.bax.h5",
+"chimp10-2G"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.1.bax.h5",
+"chimp10-2H"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.2.bax.h5",
+"chimp10-2I"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.3.bax.h5",
+"chimp10-2J"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.1.bax.h5",
+"chimp10-2K"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.2.bax.h5",
+"chimp10-2L"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.3.bax.h5"
 },
 "chimp5-7"  : {
-"chimp5-7A" : "../links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.1.bax.h5",
-"chimp5-7B" : "../links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.2.bax.h5",
-"chimp5-7C" : "../links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.3.bax.h5",
-"chimp5-7D" : "../links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.1.bax.h5",
-"chimp5-7E" : "../links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.2.bax.h5",
-"chimp5-7F" : "../links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.3.bax.h5",
-"chimp5-7G" : "../links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.1.bax.h5",
-"chimp5-7H" : "../links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.2.bax.h5",
-"chimp5-7I" : "../links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.3.bax.h5",
-"chimp5-7J" : "../links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.1.bax.h5",
-"chimp5-7K" : "../links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.2.bax.h5",
-"chimp5-7L" : "../links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.3.bax.h5"
+"chimp5-7A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.1.bax.h5",
+"chimp5-7B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.2.bax.h5",
+"chimp5-7C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.3.bax.h5",
+"chimp5-7D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.1.bax.h5",
+"chimp5-7E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.2.bax.h5",
+"chimp5-7F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.3.bax.h5",
+"chimp5-7G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.1.bax.h5",
+"chimp5-7H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.2.bax.h5",
+"chimp5-7I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.3.bax.h5",
+"chimp5-7J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.1.bax.h5",
+"chimp5-7K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.2.bax.h5",
+"chimp5-7L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.3.bax.h5"
 },
 "chimp8-9"  : {
-"chimp8-9A" : "../links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.1.bax.h5",
-"chimp8-9B" : "../links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.2.bax.h5",
-"chimp8-9C" : "../links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.3.bax.h5",
-"chimp8-9D" : "../links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.1.bax.h5",
-"chimp8-9E" : "../links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.2.bax.h5",
-"chimp8-9F" : "../links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.3.bax.h5",
-"chimp8-9G" : "../links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.1.bax.h5",
-"chimp8-9H" : "../links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.2.bax.h5",
-"chimp8-9I" : "../links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.3.bax.h5",
-"chimp8-9J" : "../links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.1.bax.h5",
-"chimp8-9K" : "../links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.2.bax.h5",
-"chimp8-9L" : "../links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.3.bax.h5"
+"chimp8-9A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.1.bax.h5",
+"chimp8-9B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.2.bax.h5",
+"chimp8-9C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.3.bax.h5",
+"chimp8-9D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.1.bax.h5",
+"chimp8-9E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.2.bax.h5",
+"chimp8-9F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.3.bax.h5",
+"chimp8-9G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.1.bax.h5",
+"chimp8-9H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.2.bax.h5",
+"chimp8-9I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.3.bax.h5",
+"chimp8-9J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.1.bax.h5",
+"chimp8-9K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.2.bax.h5",
+"chimp8-9L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.3.bax.h5"
 },
 "human8-9"  : {
-"human8-9A" : "../links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.1.bax.h5",
-"human8-9B" : "../links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.2.bax.h5",
-"human8-9C" : "../links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.3.bax.h5",
-"human8-9D" : "../links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.1.bax.h5",
-"human8-9E" : "../links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.2.bax.h5",
-"human8-9F" : "../links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.3.bax.h5",
-"human8-9G" : "../links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.1.bax.h5",
-"human8-9H" : "../links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.2.bax.h5",
-"human8-9I" : "../links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.3.bax.h5",
-"human8-9J" : "../links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.1.bax.h5",
-"human8-9K" : "../links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.2.bax.h5",
-"human8-9L" : "../links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.3.bax.h5"
+"human8-9A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.1.bax.h5",
+"human8-9B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.2.bax.h5",
+"human8-9C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.3.bax.h5",
+"human8-9D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.1.bax.h5",
+"human8-9E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.2.bax.h5",
+"human8-9F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.3.bax.h5",
+"human8-9G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.1.bax.h5",
+"human8-9H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.2.bax.h5",
+"human8-9I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.3.bax.h5",
+"human8-9J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.1.bax.h5",
+"human8-9K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.2.bax.h5",
+"human8-9L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.3.bax.h5"
 },
 "human5-7"  : {
-"human5-7A" : "../links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.1.bax.h5",
-"human5-7B" : "../links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.2.bax.h5",
-"human5-7C" : "../links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.3.bax.h5",
-"human5-7D" : "../links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.1.bax.h5",
-"human5-7E" : "../links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.2.bax.h5",
-"human5-7F" : "../links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.3.bax.h5",
-"human5-7G" : "../links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.1.bax.h5",
-"human5-7H" : "../links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.2.bax.h5",
-"human5-7I" : "../links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.3.bax.h5",
-"human5-7J" : "../links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.1.bax.h5",
-"human5-7K" : "../links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.2.bax.h5",
-"human5-7L" : "../links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.3.bax.h5"
+"human5-7A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.1.bax.h5",
+"human5-7B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.2.bax.h5",
+"human5-7C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.3.bax.h5",
+"human5-7D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.1.bax.h5",
+"human5-7E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.2.bax.h5",
+"human5-7F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.3.bax.h5",
+"human5-7G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.1.bax.h5",
+"human5-7H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.2.bax.h5",
+"human5-7I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.3.bax.h5",
+"human5-7J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.1.bax.h5",
+"human5-7K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.2.bax.h5",
+"human5-7L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.3.bax.h5"
 },
 "human12-2"  : {
-"human12-2A" : "../links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.1.bax.h5",
-"human12-2B" : "../links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.2.bax.h5",
-"human12-2C" : "../links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.3.bax.h5",
-"human12-2D" : "../links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.1.bax.h5",
-"human12-2E" : "../links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.2.bax.h5",
-"human12-2F" : "../links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.3.bax.h5",
-"human12-2G" : "../links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.1.bax.h5",
-"human12-2H" : "../links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.2.bax.h5",
-"human12-2I" : "../links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.3.bax.h5",
-"human12-2J" : "../links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.1.bax.h5",
-"human12-2K" : "../links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.2.bax.h5",
-"human12-2L" : "../links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.3.bax.h5"
+"human12-2A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.1.bax.h5",
+"human12-2B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.2.bax.h5",
+"human12-2C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.3.bax.h5",
+"human12-2D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.1.bax.h5",
+"human12-2E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.2.bax.h5",
+"human12-2F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.3.bax.h5",
+"human12-2G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.1.bax.h5",
+"human12-2H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.2.bax.h5",
+"human12-2I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.3.bax.h5",
+"human12-2J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.1.bax.h5",
+"human12-2K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.2.bax.h5",
+"human12-2L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.3.bax.h5"
 },
 "rhesus9-12" : {
-"rhesus9-12A" : "../links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.1.bax.h5",
-"rhesus9-12B" : "../links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.2.bax.h5",
-"rhesus9-12C" : "../links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.3.bax.h5"
+"rhesus9-12A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.1.bax.h5",
+"rhesus9-12B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.2.bax.h5",
+"rhesus9-12C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.3.bax.h5"
 },
 "gorilla9-12"  : {
-"gorilla9-12A" : "../links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.1.bax.h5",
-"gorilla9-12B" : "../links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.2.bax.h5",
-"gorilla9-12C" : "../links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.3.bax.h5"
+"gorilla9-12A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.1.bax.h5",
+"gorilla9-12B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.2.bax.h5",
+"gorilla9-12C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.3.bax.h5"
 },
 "gorilla7-8"  : {
-"gorilla7-8A" : "../links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.1.bax.h5",
-"gorilla7-8B" : "../links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.2.bax.h5",
-"gorilla7-8C" : "../links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.3.bax.h5"
+"gorilla7-8A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.1.bax.h5",
+"gorilla7-8B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.2.bax.h5",
+"gorilla7-8C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.3.bax.h5"
+},
+"human13-1" : {
+"human13-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.1.bax.h5",
+"human13-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.2.bax.h5",
+"human13-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.3.bax.h5"
+},
+"human13-2" : {
+"human13-2A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.1.bax.h5",
+"human13-2B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.2.bax.h5",
+"human13-2C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.3.bax.h5"
+},
+"human13-3" : {
+"human13-3A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.1.bax.h5",
+"human13-3B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.2.bax.h5",
+"human13-3C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.3.bax.h5"
+},
+"human14-4" : {
+"human13-4A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.1.bax.h5",
+"human13-4B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.2.bax.h5",
+"human13-4C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.3.bax.h5"
+},
+"gorilla9-12C3"  : {
+"gorilla9-12C3A" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.1.bax.h5",
+"gorilla9-12C3B" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.2.bax.h5",
+"gorilla9-12C3C" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.3.bax.h5"
+},
+"gorilla9-12D3"  : {
+"gorilla9-12D3A" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.1.bax.h5",
+"gorilla9-12D3B" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.2.bax.h5",
+"gorilla9-12D3C" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.3.bax.h5"
+},
+"gorilla7-8E3"  : {
+"gorilla7-8E3A" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.1.bax.h5",
+"gorilla7-8E3B" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.2.bax.h5",
+"gorilla7-8E3C" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.3.bax.h5"
+},
+"gorilla7-8F3" : {
+"gorilla7-8F3A" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.1.bax.h5",
+"gorilla7-8F3B" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.2.bax.h5",
+"gorilla7-8F3C" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.3.bax.h5"
+},
+"gorilla6-G3" : {
+"gorilla6-G3A" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.1.bax.h5",
+"gorilla6-G3B" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.2.bax.h5",
+"gorilla6-G3C" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.3.bax.h5"
+},
+"gorilla6-H3" : {
+"gorilla6-H3A" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.1.bax.h5",
+"gorilla6-H3B" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.2.bax.h5",
+"gorilla6-H3C" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.3.bax.h5"
 }
 }
