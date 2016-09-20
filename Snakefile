@@ -7,7 +7,7 @@ import glob
 import csv
 
 BAX2BAM  = "/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/pitchfork/deployment/bin/bax2bam"
-TOPGROUP = "Rhesus Chimp Human Gor".split()
+TOPGROUP = "adult_brain".split()
 TYPES    = "flnc nfl".split()
 
 NAMES  = []
@@ -68,13 +68,13 @@ rule bam2fa :
      shell  : "bamtools convert -in {input.BAM} -format fasta > {output}"
 
 rule ccs    :
-     input  : BAM="cc2_bams/{names}.subreads.bam", CCS="/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/pitchfork/deployment/bin/ccs"
+     input  : BAM="ccs2_bams/{names}.subreads.bam", CCS="/net/eichler/vol18/zevk/great_apes/iso_seq/cc2_analysis/pitchfork/deployment/bin/ccs"
      output : "pbccs_results/{names}.pbccs.bam", "pbccs_results/{names}.pbccs.consensusreadset.xml"
      params :  sge_opts="-l mfree=4G -l h_rt=48:00:00 -q eichler-short.q -pe serial 4"
      shell  : "{input.CCS} --numThreads=4 --minLength=200 {input.BAM} {output[0]}"
 
 rule bax2bam:
      input  : BAX2BAM , FL=_get_files_by_name
-     output : "cc2_bams/{names}.subreads.bam"
+     output : "ccs2_bams/{names}.subreads.bam"
      params : sge_opts="-l mfree=15G -l h_rt=06:00:00 -q eichler-short.q"
-     shell  : "{BAX2BAM} -o cc2_bams/{wildcards.names} {input.FL}"
+     shell  : "{BAX2BAM} -o ccs2_bams/{wildcards.names} {input.FL}"
