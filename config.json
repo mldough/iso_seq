@@ -1,166 +1,237 @@
 {
-"gorilla6-1" : {
-"gorilla6-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.1.bax.h5",
-"gorilla6-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.2.bax.h5",
-"gorilla6-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla6/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.3.bax.h5",
+"Human5-7_160428_PCB-CC_JU_SC_20kb_P6v2_C1" : {
+"Human5-7_160428_PCB-CC_JU_SC_20kb_P6v2_C1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/C01_1/Analysis_Results/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.1.bax.h5",
+"Human5-7_160428_PCB-CC_JU_SC_20kb_P6v2_C1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/C01_1/Analysis_Results/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.2.bax.h5",
+"Human5-7_160428_PCB-CC_JU_SC_20kb_P6v2_C1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/C01_1/Analysis_Results/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.3.bax.h5"
 },
-"chimp7-1"  : {
-"chimp7-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.1.bax.h5",
-"chimp7-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.2.bax.h5",
-"chimp7-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp7/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.3.bax.h5"
+"Human8-9_160428_PCB-CC_JU_SC_20kb_P6v2_D1" : {
+"Human8-9_160428_PCB-CC_JU_SC_20kb_P6v2_D1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/D01_1/Analysis_Results/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.1.bax.h5",
+"Human8-9_160428_PCB-CC_JU_SC_20kb_P6v2_D1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/D01_1/Analysis_Results/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.2.bax.h5",
+"Human8-9_160428_PCB-CC_JU_SC_20kb_P6v2_D1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/D01_1/Analysis_Results/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.3.bax.h5"
 },
-"chimp6-1"  : {
-"chimp6-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.1.bax.h5",
-"chimp6-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.2.bax.h5",
-"chimp6-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp6/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.3.bax.h5"
+"Human10-12_160428_PCB-CC_JU_SC_20kb_P6v2_E1" : {
+"Human10-12_160428_PCB-CC_JU_SC_20kb_P6v2_E1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/E01_1/Analysis_Results/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.1.bax.h5",
+"Human10-12_160428_PCB-CC_JU_SC_20kb_P6v2_E1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/E01_1/Analysis_Results/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.2.bax.h5",
+"Human10-12_160428_PCB-CC_JU_SC_20kb_P6v2_E1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/E01_1/Analysis_Results/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.3.bax.h5"
 },
-"chimp10-2" : {
-"chimp10-2A"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.1.bax.h5",
-"chimp10-2B"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.2.bax.h5",
-"chimp10-2C"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.3.bax.h5",
-"chimp10-2D"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.1.bax.h5",
-"chimp10-2E"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.2.bax.h5",
-"chimp10-2F"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.3.bax.h5",
-"chimp10-2G"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.1.bax.h5",
-"chimp10-2H"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.2.bax.h5",
-"chimp10-2I"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.3.bax.h5",
-"chimp10-2J"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.1.bax.h5",
-"chimp10-2K"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.2.bax.h5",
-"chimp10-2L"  : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp10-2/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.3.bax.h5"
+"Chimp5-7_160428_PCB-CC_JU_SC_20kb_P6v2_F1" : {
+"Chimp5-7_160428_PCB-CC_JU_SC_20kb_P6v2_F1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/F01_1/Analysis_Results/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.1.bax.h5",
+"Chimp5-7_160428_PCB-CC_JU_SC_20kb_P6v2_F1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/F01_1/Analysis_Results/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.2.bax.h5",
+"Chimp5-7_160428_PCB-CC_JU_SC_20kb_P6v2_F1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/F01_1/Analysis_Results/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.3.bax.h5"
 },
-"chimp5-7"  : {
-"chimp5-7A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.1.bax.h5",
-"chimp5-7B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.2.bax.h5",
-"chimp5-7C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160430_031832_42134_c101013262550000001823229908031662_s1_p0.3.bax.h5",
-"chimp5-7D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.1.bax.h5",
-"chimp5-7E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.2.bax.h5",
-"chimp5-7F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.3.bax.h5",
-"chimp5-7G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.1.bax.h5",
-"chimp5-7H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.2.bax.h5",
-"chimp5-7I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.3.bax.h5",
-"chimp5-7J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.1.bax.h5",
-"chimp5-7K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.2.bax.h5",
-"chimp5-7L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp5-7/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.3.bax.h5"
+"Chimp8-9_160428_PCB-CC_JU_SC_20kb_P6v2_G1" : {
+"Chimp8-9_160428_PCB-CC_JU_SC_20kb_P6v2_G1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/G01_1/Analysis_Results/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.1.bax.h5",
+"Chimp8-9_160428_PCB-CC_JU_SC_20kb_P6v2_G1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/G01_1/Analysis_Results/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.2.bax.h5",
+"Chimp8-9_160428_PCB-CC_JU_SC_20kb_P6v2_G1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/G01_1/Analysis_Results/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.3.bax.h5"
 },
-"chimp8-9"  : {
-"chimp8-9A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.1.bax.h5",
-"chimp8-9B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.2.bax.h5",
-"chimp8-9C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160430_093921_42134_c101013262550000001823229908031663_s1_p0.3.bax.h5",
-"chimp8-9D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.1.bax.h5",
-"chimp8-9E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.2.bax.h5",
-"chimp8-9F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.3.bax.h5",
-"chimp8-9G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.1.bax.h5",
-"chimp8-9H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.2.bax.h5",
-"chimp8-9I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.3.bax.h5",
-"chimp8-9J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.1.bax.h5",
-"chimp8-9K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.2.bax.h5",
-"chimp8-9L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/chimp8-9/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.3.bax.h5"
+"Chimp10-12_160428_PCB-CC_JU_SC_20kb_P6v2_H1" : {
+"Chimp10-12_160428_PCB-CC_JU_SC_20kb_P6v2_H1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/H01_1/Analysis_Results/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.1.bax.h5",
+"Chimp10-12_160428_PCB-CC_JU_SC_20kb_P6v2_H1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/H01_1/Analysis_Results/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.2.bax.h5",
+"Chimp10-12_160428_PCB-CC_JU_SC_20kb_P6v2_H1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160428_PCB-CC_JU_SC_20kb_P6v2_742/H01_1/Analysis_Results/m160430_155133_42134_c101013262550000001823229908031664_s1_p0.3.bax.h5"
 },
-"human8-9"  : {
-"human8-9A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.1.bax.h5",
-"human8-9B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.2.bax.h5",
-"human8-9C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160429_144540_42134_c101013262550000001823229908031660_s1_p0.3.bax.h5",
-"human8-9D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.1.bax.h5",
-"human8-9E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.2.bax.h5",
-"human8-9F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.3.bax.h5",
-"human8-9G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.1.bax.h5",
-"human8-9H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.2.bax.h5",
-"human8-9I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.3.bax.h5",
-"human8-9J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.1.bax.h5",
-"human8-9K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.2.bax.h5",
-"human8-9L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human8-9/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.3.bax.h5"
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_1" : {
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_1/Analysis_Results/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.1.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_1/Analysis_Results/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.2.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_1/Analysis_Results/m160605_140426_42134_c101016252550000001823229510211637_s1_p0.3.bax.h5"
 },
-"human5-7"  : {
-"human5-7A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.1.bax.h5",
-"human5-7B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.2.bax.h5",
-"human5-7C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160429_082920_42134_c101000142550000001823229908031677_s1_p0.3.bax.h5",
-"human5-7D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.1.bax.h5",
-"human5-7E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.2.bax.h5",
-"human5-7F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.3.bax.h5",
-"human5-7G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.1.bax.h5",
-"human5-7H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.2.bax.h5",
-"human5-7I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.3.bax.h5",
-"human5-7J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.1.bax.h5",
-"human5-7K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.2.bax.h5",
-"human5-7L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human5-7/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.3.bax.h5"
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_2" : {
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_2-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_2/Analysis_Results/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.1.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_2-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_2/Analysis_Results/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.2.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_2-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_2/Analysis_Results/m160605_223750_42134_c101016562550000001823229510211630_s1_p0.3.bax.h5"
 },
-"human12-2"  : {
-"human12-2A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.1.bax.h5",
-"human12-2B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.2.bax.h5",
-"human12-2C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160429_210200_42134_c101013262550000001823229908031661_s1_p0.3.bax.h5",
-"human12-2D" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.1.bax.h5",
-"human12-2E" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.2.bax.h5",
-"human12-2F" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.3.bax.h5",
-"human12-2G" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.1.bax.h5",
-"human12-2H" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.2.bax.h5",
-"human12-2I" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.3.bax.h5",
-"human12-2J" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.1.bax.h5",
-"human12-2K" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.2.bax.h5",
-"human12-2L" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human12-2/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.3.bax.h5"
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_3" : {
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_3/Analysis_Results/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.1.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_3/Analysis_Results/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.2.bax.h5",
+"Chimp5-7_160603_PCB-CC_JU_20kb_P6v2_A03_3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/A03_3/Analysis_Results/m160606_045238_42134_c101016562550000001823229510211631_s1_p0.3.bax.h5"
 },
-"rhesus9-12" : {
-"rhesus9-12A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.1.bax.h5",
-"rhesus9-12B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.2.bax.h5",
-"rhesus9-12C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/rhesus9-12/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.3.bax.h5"
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_1" : {
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_1/Analysis_Results/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.1.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_1/Analysis_Results/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.2.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_1/Analysis_Results/m160606_110911_42134_c101016562550000001823229510211632_s1_p0.3.bax.h5"
 },
-"gorilla9-12"  : {
-"gorilla9-12A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.1.bax.h5",
-"gorilla9-12B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.2.bax.h5",
-"gorilla9-12C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla9-12/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.3.bax.h5"
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_2" : {
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_2-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_2/Analysis_Results/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.1.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_2-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_2/Analysis_Results/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.2.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_2-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_2/Analysis_Results/m160606_172922_42134_c101016562550000001823229510211633_s1_p0.3.bax.h5"
 },
-"gorilla7-8"  : {
-"gorilla7-8A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.1.bax.h5",
-"gorilla7-8B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.2.bax.h5",
-"gorilla7-8C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/gorilla7-8/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.3.bax.h5"
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_3" : {
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_3/Analysis_Results/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.1.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_3/Analysis_Results/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.2.bax.h5",
+"Chimp8-9_160603_PCB-CC_JU_20kb_P6v2_B03_3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/B03_3/Analysis_Results/m160606_234318_42134_c101016562550000001823229510211634_s1_p0.3.bax.h5"
 },
-"human13-1" : {
-"human13-1A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.1.bax.h5",
-"human13-1B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.2.bax.h5",
-"human13-1C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-1/m160824_205008_42134_c101090192550000001823245003091776_s1_p0.3.bax.h5"
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_1" : {
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_1/Analysis_Results/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.1.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_1/Analysis_Results/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.2.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_1/Analysis_Results/m160607_055755_42134_c101016562550000001823229510211635_s1_p0.3.bax.h5"
 },
-"human13-2" : {
-"human13-2A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.1.bax.h5",
-"human13-2B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.2.bax.h5",
-"human13-2C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-2/m160825_030638_42134_c101090192550000001823245003091777_s1_p0.3.bax.h5"
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_2" : {
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_2-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_2/Analysis_Results/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.1.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_2-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_2/Analysis_Results/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.2.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_2-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_2/Analysis_Results/m160607_121748_42134_c101016562550000001823229510211636_s1_p0.3.bax.h5"
 },
-"human13-3" : {
-"human13-3A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.1.bax.h5",
-"human13-3B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.2.bax.h5",
-"human13-3C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-3/m160825_092519_42134_c101090222550000001823245003091710_s1_p0.3.bax.h5"
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_3" : {
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_3/Analysis_Results/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.1.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_3/Analysis_Results/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.2.bax.h5",
+"Chimp10-12_160603_PCB-CC_JU_20kb_P6v2_C03_3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160603_PCB-CC_JU_20kb_P6v2_754/C03_3/Analysis_Results/m160607_183035_42134_c101016562550000001823229510211637_s1_p0.3.bax.h5"
 },
-"human14-4" : {
-"human13-4A" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.1.bax.h5",
-"human13-4B" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.2.bax.h5",
-"human13-4C" : "/net/eichler/vol18/zevk/great_apes/iso_seq/links_to_raw_data/human13-4/m160825_153901_42134_c101090222550000001823245003091711_s1_p0.3.bax.h5"
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_E1" : {
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_E1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/E01_1/Analysis_Results/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.1.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_E1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/E01_1/Analysis_Results/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.2.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_E1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/E01_1/Analysis_Results/m160615_230114_42134_c101009372550000001823230410211674_s1_p0.3.bax.h5"
 },
-"gorilla9-12C3"  : {
-"gorilla9-12C3A" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.1.bax.h5",
-"gorilla9-12C3B" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.2.bax.h5",
-"gorilla9-12C3C" : "../links_to_raw_data/gorilla9-12-C3/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.3.bax.h5"
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_F1" : {
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_F1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/F01_1/Analysis_Results/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.1.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_F1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/F01_1/Analysis_Results/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.2.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_F1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/F01_1/Analysis_Results/m160616_051734_42134_c101009372550000001823230410211675_s1_p0.3.bax.h5"
 },
-"gorilla9-12D3"  : {
-"gorilla9-12D3A" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.1.bax.h5",
-"gorilla9-12D3B" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.2.bax.h5",
-"gorilla9-12D3C" : "../links_to_raw_data/gorilla9-12-D3/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.3.bax.h5"
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_G1" : {
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_G1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/G01_1/Analysis_Results/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.1.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_G1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/G01_1/Analysis_Results/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.2.bax.h5",
+"Human5-7_160614_PCB-CC_EEE_JU_20kb_P6v2_G1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160614_PCB-CC_EEE_JU_20kb_P6v2_759/G01_1/Analysis_Results/m160616_113750_42134_c101009372550000001823230410211676_s1_p0.3.bax.h5"
 },
-"gorilla7-8E3"  : {
-"gorilla7-8E3A" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.1.bax.h5",
-"gorilla7-8E3B" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.2.bax.h5",
-"gorilla7-8E3C" : "../links_to_raw_data/gorilla7-8-E3/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.3.bax.h5"
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_C3" : {
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_C3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/C03_1/Analysis_Results/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.1.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_C3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/C03_1/Analysis_Results/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.2.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_C3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/C03_1/Analysis_Results/m160619_184048_42134_c101009602550000001823230710211662_s1_p0.3.bax.h5"
 },
-"gorilla7-8F3" : {
-"gorilla7-8F3A" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.1.bax.h5",
-"gorilla7-8F3B" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.2.bax.h5",
-"gorilla7-8F3C" : "../links_to_raw_data/gorilla7-8-F3/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.3.bax.h5"
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_D3" : {
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_D3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/D03_1/Analysis_Results/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.1.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_D3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/D03_1/Analysis_Results/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.2.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_D3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/D03_1/Analysis_Results/m160620_010142_42134_c101009602550000001823230710211663_s1_p0.3.bax.h5"
 },
-"gorilla6-G3" : {
-"gorilla6-G3A" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.1.bax.h5",
-"gorilla6-G3B" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.2.bax.h5",
-"gorilla6-G3C" : "../links_to_raw_data/gorilla6-G3/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.3.bax.h5"
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_E3" : {
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_E3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/E03_1/Analysis_Results/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.1.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_E3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/E03_1/Analysis_Results/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.2.bax.h5",
+"Human8-9_160616_PCB-CC_JU_20kb_P6v2_E3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/E03_1/Analysis_Results/m160620_071924_42134_c101009602550000001823230710211664_s1_p0.3.bax.h5"
 },
-"gorilla6-H3" : {
-"gorilla6-H3A" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.1.bax.h5",
-"gorilla6-H3B" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.2.bax.h5",
-"gorilla6-H3C" : "../links_to_raw_data/gorilla6-H3/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.3.bax.h5"
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_F3" : {
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_F3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/F03_1/Analysis_Results/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.1.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_F3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/F03_1/Analysis_Results/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.2.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_F3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/F03_1/Analysis_Results/m160620_133628_42134_c101009602550000001823230710211665_s1_p0.3.bax.h5"
+},
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_G3" : {
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_G3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/G03_1/Analysis_Results/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.1.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_G3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/G03_1/Analysis_Results/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.2.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_G3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/G03_1/Analysis_Results/m160620_195356_42134_c101009602550000001823230710211666_s1_p0.3.bax.h5"
+},
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_H3" : {
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_H3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/H03_1/Analysis_Results/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.1.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_H3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/H03_1/Analysis_Results/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.2.bax.h5",
+"Human10-12_160616_PCB-CC_JU_20kb_P6v2_H3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160616_PCB-CC_JU_20kb_P6v2_760/H03_1/Analysis_Results/m160621_021004_42134_c101009602550000001823230710211667_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160714_EEE_JU_PBC_20kb_P6v2_C1" : {
+"Gorilla9-12_160714_EEE_JU_PBC_20kb_P6v2_C1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/C01_1/Analysis_Results/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.1.bax.h5",
+"Gorilla9-12_160714_EEE_JU_PBC_20kb_P6v2_C1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/C01_1/Analysis_Results/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.2.bax.h5",
+"Gorilla9-12_160714_EEE_JU_PBC_20kb_P6v2_C1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/C01_1/Analysis_Results/m160715_083918_42134_c101034492550000001823250511171692_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160714_EEE_JU_PBC_20kb_P6v2_D1" : {
+"Gorilla7-8_160714_EEE_JU_PBC_20kb_P6v2_D1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/D01_1/Analysis_Results/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.1.bax.h5",
+"Gorilla7-8_160714_EEE_JU_PBC_20kb_P6v2_D1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/D01_1/Analysis_Results/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.2.bax.h5",
+"Gorilla7-8_160714_EEE_JU_PBC_20kb_P6v2_D1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/D01_1/Analysis_Results/m160715_150245_42134_c101034492550000001823250511171693_s1_p0.3.bax.h5"
+},
+"Rhesus9-12_160714_EEE_JU_PBC_20kb_P6v2_E1" : {
+"Rhesus9-12_160714_EEE_JU_PBC_20kb_P6v2_E1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/E01_1/Analysis_Results/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.1.bax.h5",
+"Rhesus9-12_160714_EEE_JU_PBC_20kb_P6v2_E1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/E01_1/Analysis_Results/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.2.bax.h5",
+"Rhesus9-12_160714_EEE_JU_PBC_20kb_P6v2_E1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160714_EEE_JU_PBC_20kb_P6v2_768/E01_1/Analysis_Results/m160715_212630_42134_c101034492550000001823250511171694_s1_p0.3.bax.h5"
+},
+"Chimp6_160812_PCB-CC_JU_EEE_20kb_P6v2_C1" : {
+"Chimp6_160812_PCB-CC_JU_EEE_20kb_P6v2_C1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/C01_1/Analysis_Results/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.1.bax.h5",
+"Chimp6_160812_PCB-CC_JU_EEE_20kb_P6v2_C1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/C01_1/Analysis_Results/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.2.bax.h5",
+"Chimp6_160812_PCB-CC_JU_EEE_20kb_P6v2_C1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/C01_1/Analysis_Results/m160813_150359_42134_c101024302550000001823258111171682_s1_p0.3.bax.h5"
+},
+"Chimp7_160812_PCB-CC_JU_EEE_20kb_P6v2_D1" : {
+"Chimp7_160812_PCB-CC_JU_EEE_20kb_P6v2_D1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/D01_1/Analysis_Results/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.1.bax.h5",
+"Chimp7_160812_PCB-CC_JU_EEE_20kb_P6v2_D1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/D01_1/Analysis_Results/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.2.bax.h5",
+"Chimp7_160812_PCB-CC_JU_EEE_20kb_P6v2_D1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/D01_1/Analysis_Results/m160813_212012_42134_c101024302550000001823258111171683_s1_p0.3.bax.h5"
+},
+"GorGor6_160812_PCB-CC_JU_EEE_20kb_P6v2_E1" : {
+"GorGor6_160812_PCB-CC_JU_EEE_20kb_P6v2_E1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/E01_1/Analysis_Results/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.1.bax.h5",
+"GorGor6_160812_PCB-CC_JU_EEE_20kb_P6v2_E1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/E01_1/Analysis_Results/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.2.bax.h5",
+"GorGor6_160812_PCB-CC_JU_EEE_20kb_P6v2_E1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160812_PCB-CC_JU_EEE_20kb_P6v2_777/E01_1/Analysis_Results/m160814_033632_42134_c101024302550000001823258111171684_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_C3" : {
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_C3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/C03_1/Analysis_Results/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.1.bax.h5",
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_C3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/C03_1/Analysis_Results/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.2.bax.h5",
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_C3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/C03_1/Analysis_Results/m160904_190455_42134_c101090222550000001823245003091714_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_D3" : {
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_D3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/D03_1/Analysis_Results/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.1.bax.h5",
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_D3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/D03_1/Analysis_Results/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.2.bax.h5",
+"Gorilla9-12_160901_EEE_JU_PCB-CC_20kb_P6v2_D3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/D03_1/Analysis_Results/m160905_012114_42134_c101090222550000001823245003091715_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_E3" : {
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_E3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/E03_1/Analysis_Results/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.1.bax.h5",
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_E3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/E03_1/Analysis_Results/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.2.bax.h5",
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_E3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/E03_1/Analysis_Results/m160905_073436_42134_c101090222550000001823245003091716_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_F3" : {
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_F3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/F03_1/Analysis_Results/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.1.bax.h5",
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_F3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/F03_1/Analysis_Results/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.2.bax.h5",
+"Gorilla7-8_160901_EEE_JU_PCB-CC_20kb_P6v2_F3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/F03_1/Analysis_Results/m160905_135308_42134_c101090222550000001823245003091717_s1_p0.3.bax.h5"
+},
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_G3" : {
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_G3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/G03_1/Analysis_Results/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.1.bax.h5",
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_G3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/G03_1/Analysis_Results/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.2.bax.h5",
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_G3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/G03_1/Analysis_Results/m160905_201314_42134_c101090462550000001823245003091710_s1_p0.3.bax.h5"
+},
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_H3" : {
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_H3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/H03_1/Analysis_Results/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.1.bax.h5",
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_H3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/H03_1/Analysis_Results/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.2.bax.h5",
+"GorGor6_160901_EEE_JU_PCB-CC_20kb_P6v2_H3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160901_EEE_JU_PCB-CC_20kb_P6v2_784/H03_1/Analysis_Results/m160906_022852_42134_c101090462550000001823245003091711_s1_p0.3.bax.h5"
+},
+"Rhesus9-12_160907_JU_20kb_P6v2_A1" : {
+"Rhesus9-12_160907_JU_20kb_P6v2_A1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A01_1/Analysis_Results/m160909_034920_42134_c101091612550000001823254003091770_s1_p0.1.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_A1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A01_1/Analysis_Results/m160909_034920_42134_c101091612550000001823254003091770_s1_p0.2.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_A1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A01_1/Analysis_Results/m160909_034920_42134_c101091612550000001823254003091770_s1_p0.3.bax.h5"
+},
+"Rhesus9-12_160907_JU_20kb_P6v2_B1" : {
+"Rhesus9-12_160907_JU_20kb_P6v2_B1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B01_1/Analysis_Results/m160909_100517_42134_c101091612550000001823254003091771_s1_p0.1.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_B1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B01_1/Analysis_Results/m160909_100517_42134_c101091612550000001823254003091771_s1_p0.2.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_B1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B01_1/Analysis_Results/m160909_100517_42134_c101091612550000001823254003091771_s1_p0.3.bax.h5"
+},
+"Rhesus9-12_160907_JU_20kb_P6v2_C1" : {
+"Rhesus9-12_160907_JU_20kb_P6v2_C1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C01_1/Analysis_Results/m160909_162137_42134_c101091612550000001823254003091772_s1_p0.1.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_C1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C01_1/Analysis_Results/m160909_162137_42134_c101091612550000001823254003091772_s1_p0.2.bax.h5",
+"Rhesus9-12_160907_JU_20kb_P6v2_C1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C01_1/Analysis_Results/m160909_162137_42134_c101091612550000001823254003091772_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160907_JU_20kb_P6v2_H1" : {
+"Gorilla7-8_160907_JU_20kb_P6v2_H1-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/H01_1/Analysis_Results/m160910_234341_42134_c101091612550000001823254003091777_s1_p0.1.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_H1-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/H01_1/Analysis_Results/m160910_234341_42134_c101091612550000001823254003091777_s1_p0.2.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_H1-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/H01_1/Analysis_Results/m160910_234341_42134_c101091612550000001823254003091777_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160907_JU_20kb_P6v2_A3" : {
+"Gorilla7-8_160907_JU_20kb_P6v2_A3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A03_1/Analysis_Results/m160911_081720_42134_c101091692550000001823254003091790_s1_p0.1.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_A3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A03_1/Analysis_Results/m160911_081720_42134_c101091692550000001823254003091790_s1_p0.2.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_A3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/A03_1/Analysis_Results/m160911_081720_42134_c101091692550000001823254003091790_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160907_JU_20kb_P6v2_B3" : {
+"Gorilla7-8_160907_JU_20kb_P6v2_B3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B03_1/Analysis_Results/m160911_143115_42134_c101091692550000001823254003091791_s1_p0.1.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_B3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B03_1/Analysis_Results/m160911_143115_42134_c101091692550000001823254003091791_s1_p0.2.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_B3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/B03_1/Analysis_Results/m160911_143115_42134_c101091692550000001823254003091791_s1_p0.3.bax.h5"
+},
+"Gorilla7-8_160907_JU_20kb_P6v2_C3" : {
+"Gorilla7-8_160907_JU_20kb_P6v2_C3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C03_1/Analysis_Results/m160911_204753_42134_c101091692550000001823254003091792_s1_p0.1.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_C3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C03_1/Analysis_Results/m160911_204753_42134_c101091692550000001823254003091792_s1_p0.2.bax.h5",
+"Gorilla7-8_160907_JU_20kb_P6v2_C3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/C03_1/Analysis_Results/m160911_204753_42134_c101091692550000001823254003091792_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160907_JU_20kb_P6v2_D3" : {
+"Gorilla9-12_160907_JU_20kb_P6v2_D3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/D03_1/Analysis_Results/m160912_030355_42134_c101091692550000001823254003091793_s1_p0.1.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_D3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/D03_1/Analysis_Results/m160912_030355_42134_c101091692550000001823254003091793_s1_p0.2.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_D3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/D03_1/Analysis_Results/m160912_030355_42134_c101091692550000001823254003091793_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160907_JU_20kb_P6v2_E3" : {
+"Gorilla9-12_160907_JU_20kb_P6v2_E3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/E03_1/Analysis_Results/m160912_092032_42134_c101091692550000001823254003091794_s1_p0.1.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_E3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/E03_1/Analysis_Results/m160912_092032_42134_c101091692550000001823254003091794_s1_p0.2.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_E3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/E03_1/Analysis_Results/m160912_092032_42134_c101091692550000001823254003091794_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160907_JU_20kb_P6v2_F3" : {
+"Gorilla9-12_160907_JU_20kb_P6v2_F3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/F03_1/Analysis_Results/m160912_153648_42134_c101091692550000001823254003091795_s1_p0.1.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_F3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/F03_1/Analysis_Results/m160912_153648_42134_c101091692550000001823254003091795_s1_p0.2.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_F3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/F03_1/Analysis_Results/m160912_153648_42134_c101091692550000001823254003091795_s1_p0.3.bax.h5"
+},
+"Gorilla9-12_160907_JU_20kb_P6v2_G3" : {
+"Gorilla9-12_160907_JU_20kb_P6v2_G3-A" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/G03_1/Analysis_Results/m160912_215623_42134_c101091692550000001823254003091796_s1_p0.1.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_G3-B" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/G03_1/Analysis_Results/m160912_215623_42134_c101091692550000001823254003091796_s1_p0.2.bax.h5",
+"Gorilla9-12_160907_JU_20kb_P6v2_G3-C" : "/net/eichler/vol24/projects/sequencing/pacbio/backups/incoming/160907_JU_20kb_P6v2_786/G03_1/Analysis_Results/m160912_215623_42134_c101091692550000001823254003091796_s1_p0.3.bax.h5"
 }
 }

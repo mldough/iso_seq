@@ -1,0 +1,47 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+use Getopt::Long;
+
+#-----------------------------------------------------------------------------
+#----------------------------------- MAIN ------------------------------------
+#-----------------------------------------------------------------------------
+my $usage = "
+
+Synopsis:
+
+addName <How the hell do you use this thing>
+
+Description:
+
+No really, how the hell do you use this thing!
+
+";
+
+my ($help);
+my $opt_success = GetOptions('help'    => \$help,
+			      );
+
+die $usage if $help || ! $opt_success;
+
+my $name = shift;
+my %letter;
+ $letter{"0"} = "A";
+ $letter{"1"} = "B";
+ $letter{"2"} = "C";
+my $lineNumber = 0;
+
+
+
+while (<STDIN>) {
+    chomp;
+    my $LE = $letter{$lineNumber};
+    print "\"$name-$LE\" : \"$_\",\n";
+    $lineNumber++;
+}
+print "},\n";
+
+#-----------------------------------------------------------------------------
+#-------------------------------- SUBROUTINES --------------------------------
+#-----------------------------------------------------------------------------
+

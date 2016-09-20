@@ -1,0 +1,1 @@
+cat table.txt | xargs -l bash -c 'echo $0 ; (find $1 | ./addName $0) ' | perl -lane 'if (scalar @F == 1 & $_ !~ /:|}/){print "\"$_\" : {"}else{print} ' > config.json
